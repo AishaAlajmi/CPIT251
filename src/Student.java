@@ -16,7 +16,7 @@ public class Student extends User {
     }
 
     public static void DisplayAllStudentReports() {
-
+        System.out.println("aisha");
     }
 
     public static void DeleteReport() {
