@@ -12,7 +12,7 @@ public class Student extends User {
     }
 
     public static void AddReport() {
-
+        System.out.println("aisha");
     }
 
     public static void DisplayAllStudentReports() {
