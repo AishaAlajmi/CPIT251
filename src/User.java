@@ -8,13 +8,6 @@
  *
  * @author aisha
  */
-public class CPIT251 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Aisha Alajmi - 2105522");    
-    }
+class User {
     
 }
